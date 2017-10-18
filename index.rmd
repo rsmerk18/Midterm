@@ -1,0 +1,15 @@
+---
+title: "9:00 am Section"
+author: "Ryan Smerkar"
+date: "October 18, 2017"
+output: html_document
+---
+Here is some Arithmetic:
+
+```{r}
+x<-3
+y<-4
+x-sqrt(y)
+
+```
+
